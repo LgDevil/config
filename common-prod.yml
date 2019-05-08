@@ -1,4 +1,4 @@
-common_service_config = common_test_prod_03
+common_service_config: common_test_prod_03
 spring:
   datasource:
     name: mybatis_test
